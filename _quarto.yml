@@ -28,6 +28,9 @@ website:
           - text: Learning materials
             href: learn.qmd
           - href: resources.qmd
+      - text: Event
+        menu:
+          - href: event.qmd
       - text: Contribute
         menu:
           - text: "Good first issues"
